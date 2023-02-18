@@ -1,5 +1,8 @@
 _repo: A-history-of-the-mathematical-theories-of-attraction-and-the-figure-of-the-earth-from-the-tim__69831
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69831-t/images/cover.jpg
 creator:
   author:
     agent_name: Todhunter, I. (Isaac)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8873
     wikipedia: https://en.wikipedia.org/wiki/Isaac_Todhunter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69831#A-history-of-the-mathematical-theories-of-attraction-and-the-figure-of-the-earth-from-the-tim_
 gutenberg_issued: '2023-01-21'
 identifiers:
   gutenberg: '69831'
